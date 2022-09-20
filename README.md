@@ -4,5 +4,4 @@
 
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
-:amor:
 </h4>
